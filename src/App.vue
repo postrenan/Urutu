@@ -36,7 +36,7 @@
 }
 
 .intro{
-  margin-bottom: 100px;
+  margin-bottom: 80px;
 }
 
 .text{
