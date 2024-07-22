@@ -87,7 +87,7 @@
 
         <div class="row ">
           <div class="col-md-12 text-center  text-white text-xxl-center text texto-principal">
-            <h2>Sobre o Urutu</h2>
+            <h2>Sobre o URUTU</h2>
             <p>O URUTU é um esquadrão brasileiro consolidado no cenário competitivo do War Thunder, se destacando como uma força unificadora entre os clãs latino-americanos, sendo um esquadrão titular da Comunidade Latino-americana de War Thunder (CLAW). Com o objetivo de escalar as classificações e dominar os céus e terras virtuais, o URUTU estabelece alguns critérios para recrutamento, exigindo que os aspirantes possuam veículos de battle rating (BR) 9.0 e demonstrem atividade consistente no jogo. O esquadrão, já contando com mais de 40 membros dedicados, não é apenas um grupo de jogadores habilidosos, mas também um símbolo de camaradagem e estratégia coletiva.
               Juntos, compartilhamos a paixão pelo jogo e o compromisso com a excelência, enquanto nos preparamos para enfrentar desafios e alcançar novos patamares no competitivo mundo de War Thunder.</p>
           </div>
