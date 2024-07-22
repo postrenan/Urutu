@@ -97,12 +97,5 @@
 
   </main>
   </div>
-  <footer class="mt-4">
-    <div class="container">
-      <div class="row">
-        Site em construção
-      </div>
-    </div>
-  </footer>
  </div>
 </template>
