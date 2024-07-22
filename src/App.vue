@@ -78,7 +78,7 @@
         <div class="row intro">
           <div class="col-8 align-content-center text-white text-xxl-center text">
             <h1>Ei, você!</h1>
-            <h2>Já pensou em se juntar a um clã competitivo de War Thunder mas não sabe qual é o melhor?</h2>
+            <h2>Já pensou em se juntar a um esquadrão competitivo de War Thunder mas não sabe qual é o melhor?</h2>
           </div>
           <div class="col align-content-center">
             <img src="./assets/URUTU_BRANCA.png"  alt="Logo" class="img-fluid">
