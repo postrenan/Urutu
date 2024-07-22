@@ -20,7 +20,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   width: 100vw;
-  height: 110vh;
+  height: 100vh;
   margin: 0 25px 0 0;
 }
 
