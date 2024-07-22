@@ -92,7 +92,13 @@
               Juntos, compartilhamos a paixão pelo jogo e o compromisso com a excelência, enquanto nos preparamos para enfrentar desafios e alcançar novos patamares no competitivo mundo de War Thunder.</p>
           </div>
         </div>
+      </div>
 
+      <div class="row">
+        <div class="col-md-12 text-center  text-white text-xxl-center text texto-principal">
+          <h3>O URUTU nos rankings</h3>
+          <p>Atualmente estamos em 183 no ranking da temporada</p>
+        </div>
       </div>
 
   </main>
@@ -100,7 +106,7 @@
   <footer class="mt-4">
     <div class="container">
       <div class="row">
-        <!-- Três colunas no rodapé -->
+        Site em construção
       </div>
     </div>
   </footer>
