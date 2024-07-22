@@ -35,15 +35,10 @@
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-.intro{
-  margin-bottom: 80px;
-}
-
 .text{
   font-size: 1.2em;
   font-weight: bold;
 }
-
 
 .texto-principal{
   margin: 0 0 1em 0;
@@ -73,9 +68,8 @@
 
   <div class="elem">
   <main >
-
       <div class="container ">
-        <div class="row intro">
+        <div class="row">
           <div class="col-8 align-content-center text-white text-xxl-center text">
             <h1>Ei, você!</h1>
             <h2>Já pensou em se juntar a um esquadrão competitivo de War Thunder mas não sabe qual é o melhor?</h2>
