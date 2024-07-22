@@ -21,7 +21,7 @@
   background-size: cover;
   width: 100vw;
   height: 100vh;
-  margin: 0 25px 0 0;
+  margin: 0 25px 0 50px;
 }
 
 
@@ -46,7 +46,7 @@
 
 
 .texto-principal{
-  margin: 0 0 5em 0;
+  margin: 0 0 0 5em ;
 }
 </style>
 
