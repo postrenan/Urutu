@@ -46,7 +46,7 @@
 
 
 .texto-principal{
-  margin: 0 0 0 5em ;
+  margin: 0 0 0 5em;
 }
 </style>
 
