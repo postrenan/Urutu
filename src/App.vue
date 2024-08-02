@@ -14,26 +14,6 @@
   width: 10%;
 }
 
-.elem {
-  position: relative;
-  background-image: url("../src/assets/img.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100vw;
-  height: 100vh;
-  padding: 0 0 10em 0;
-}
-
-
-.elem::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.3);
-}
 
 .text{
   font-size: 1.2em;
