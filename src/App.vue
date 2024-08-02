@@ -23,6 +23,8 @@
 .texto-principal{
   margin: 0 0 1em 0;
 }
+
+@media
 </style>
 
 <template>
@@ -55,7 +57,7 @@
             <h2>Já pensou em se juntar a um esquadrão competitivo de War Thunder mas não sabe qual é o melhor?</h2>
           </div>
           <div class="col align-content-center">
-            <img src="./assets/URUTU_BRANCA.png"  alt="Logo" class="img-fluid">
+            <img src="./assets/URUTU_nova.png"  alt="Logo" class="img-fluid">
           </div>
         </div>
 
@@ -71,7 +73,7 @@
       <div class="row">
         <div class="col-md-12 text-center  text-white text-xxl-center text texto-principal">
           <h3>O URUTU nos rankings</h3>
-          <p>Atualmente estamos em 183 no ranking da temporada</p>
+          <p>Atualmente estamos entre os 200 primeiros no ranking da temporada e já alcançamos o top 50 mundial</p>
         </div>
       </div>
 
