@@ -24,7 +24,15 @@
   margin: 0 0 1em 0;
 }
 
-@media
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #000;
+  /* Outros estilos do cabeçalho aqui */
+}
+
 </style>
 
 <template>
