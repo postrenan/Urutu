@@ -1,29 +1,44 @@
-# untitled1
+<h1>Urutu Clan Site</h1>
 
-This template should help get you started developing with Vue 3 in Vite.
+<h3>Link:</h3>
+<i>https://urutu.vercel.app/</i>
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+<p>En</p>
+<p>This project is for the Urutu clan with the aim of helping players with statistics and game information in addition to the news resulting from the updates. In addition to the site being a way to try to attract players to the clan.</p>
+  <h3>Technologies:</h3>
+<ul>
+  <li>
+    Vue.js
+  </li>
+  <li>
+    CSS
+  </li>
+  <li>
+    HTML5
+  </li>
 
-## Customize configuration
+</ul>
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+<h3>Implementation:</h3>
+Vercel free version
 
-## Project Setup
+<br/>
 
-```sh
-npm install
-```
+<p>Pt-BR</p>
+<p>Este projeto é para o clã Urutu com o objetivo de ajudar os jogadores com estatísticas e informações do jogo além das novidades decorrentes das atualizações. Além do site ser uma forma de tentar atrair jogadores para o clã.</p>
+  <h3>Tecnologias:</h3>
+<ul>
+  <li>
+    Vue.js
+  </li>
+  <li>
+    CSS
+  </li>
+  <li>
+    HTML5
+  </li>
+</ul>
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+<h3>Implementação:</h3>
+Versão gratuíta da Vercel
